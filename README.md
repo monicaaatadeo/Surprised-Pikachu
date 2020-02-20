@@ -4,4 +4,4 @@
 
 #### Chapter 1: 
 
-<img src="https://placebear.com/200/">
+<img src="https://placebear.com/200/200/">
