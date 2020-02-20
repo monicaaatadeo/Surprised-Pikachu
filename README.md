@@ -4,4 +4,4 @@
 
 #### Chapter 1: 
 
-<img src="https://ga-students.slack.com/files/UTZFW1FGF/FUBGHU4UF/surprised_pikachu.png">
+<img src="https://files.slack.com/files-pri/T0351JZQ0-FUBGHU4UF/surprised_pikachu.png">
